@@ -67,7 +67,7 @@ This project is licensed under the **Pranav**.
 
 ---
 
-**👨‍💻 Author:** Your Name  
+**👨‍💻 Author:** Pranav Singhal  
 📧 Email: pranavsinghal0001@example.com  
 🔗 GitHub: (https://github.com/pranavsinghal0001)
 
