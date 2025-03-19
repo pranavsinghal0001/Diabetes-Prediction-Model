@@ -51,7 +51,7 @@ To run this project, follow these steps:
 - Performance is measured using accuracy, precision, recall, and F1-score.
 
 ## 📈 Results
-- The best-performing model achieved an accuracy of **XX%** (Replace with actual result).
+- The best-performing model achieved an accuracy of **77%** .
 - Feature importance analysis was conducted to understand significant predictors.
 
 ## 🔮 Future Work
