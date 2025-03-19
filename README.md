@@ -67,5 +67,5 @@ This project is licensed under the **MIT License**.
 
 **Author:** Your Name  
 📧 Email: pranavsinghal0001@example.com 
-🔗 GitHub: [Your GitHub Profile](https://github.com/pranavsinghal0001)
+🔗 GitHub: (https://github.com/pranavsinghal0001)
 
