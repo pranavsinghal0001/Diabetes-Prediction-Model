@@ -54,11 +54,6 @@ To run this project, follow these steps:
 - The best-performing model achieved an accuracy of **77%** .
 - Feature importance analysis was conducted to understand significant predictors.
 
-## 🔮 Future Work
-- Improve model accuracy by tuning hyperparameters.
-- Experiment with deep learning models for better performance.
-- Deploy the model as a web application for real-time predictions.
-
 ## 🤝 Contribution
 Feel free to contribute by submitting a pull request or reporting issues.
 
